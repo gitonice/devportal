@@ -1,0 +1,33 @@
+/*!
+ * Start Bootstrap - Logo Nav (https://startbootstrap.com/template-overviews/logo-nav)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-logo-nav/blob/master/LICENSE)
+ */
+
+body {
+  padding-top: 54px;
+}
+
+@media (min-width: 992px) {
+  body {
+    padding-top: 56px;
+  }
+}
+
+.test
+{
+  width:100px;
+  height:29px;
+  margin:5px;
+  background-color: #CCCCCC;   
+}
+
+.inner
+{
+    margin-left:50px;
+}
+.cn{
+ -moz-box-shadow: 2px 2px 3px #000; 
+ -webkit-box-shadow:2px 2px 3px #000; 
+ box-shadow: 2px 2px 3px #000; 
+}
